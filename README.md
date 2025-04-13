@@ -15,3 +15,6 @@ The original data is sourced from Global Forest Watch, based on satellite imager
 - HTML/CSS/JavaScript
 - D3.js (v7 or latest)
 - Responsive, fully interactive dashboard
+
+## 📸 Preview
+![Dashboard Preview](https://github.com/user-attachments/assets/e3502733-4c09-4e0b-82da-1d36b9f25e5e)
